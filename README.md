@@ -27,7 +27,7 @@ The **Wine Quality Prediction** project aims to build a machine learning model t
 ## 📊 Dataset
 
 * **Source:** UCI Machine Learning Repository
-* **Dataset:** [Wine Quality Data Set (Red Wine)](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+* **Dataset:** [Wine Quality Data Set (Red Wine)]()
 * **Attributes:**
 
   * Fixed acidity
